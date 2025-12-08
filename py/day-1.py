@@ -28,5 +28,6 @@ def main():
     except Exception as e:
         print(f"An error occured: {e}")
     print(zero_count)
+    
 if __name__ == "__main__":
     main()
