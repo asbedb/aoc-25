@@ -14,7 +14,7 @@ Advent of Code 2025 Repo
 
 ### Day 3
 
--   TBC
+-   Python ⭐
 
 ### Day 4
 
